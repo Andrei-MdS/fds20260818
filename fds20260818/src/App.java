@@ -7,6 +7,7 @@ public class App {
         // Insira uma linha abaixo que mostre o seu nome na tela
         System.out.println("Henrique Nunes");
         System.out.println("Carolina Barcelos de Oliveira");
+        System.out.println("Gabriela Harumi Matsubarra");
 
     }
 }
