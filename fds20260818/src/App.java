@@ -5,6 +5,6 @@ public class App {
         System.out.println("Igor Xavier Nunes - O mais lindo ");
         // Insira uma linha abaixo que mostre o seu nome na tela
         System.out.println("Henrique Nunes");
-
+	System.out.println("Pedro Turik Firmino");
     }
 }
