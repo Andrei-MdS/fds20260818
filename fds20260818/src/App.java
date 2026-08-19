@@ -4,6 +4,7 @@ public class App {
         System.out.println("Presenca da aula 18/8/2026: ");
         // Insira uma linha abaixo que mostre o seu nome na tela
         System.out.println("Henrique Nunes");
+        System.out.println("Carolina Barcelos de Oliveira");
 
     }
 }
