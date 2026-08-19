@@ -16,6 +16,7 @@ public class App {
         System.out.println("Vitor Lucas dos Santos Reis");
 	System.out.println("Pedro Turik Firmino - P");
         System.out.println("Carolina Barcelos de Oliveira");
+        System.out.println("Marclo Fraga dos Santos");
         System.out.println("Gabriela Harumi Matsubarra");
 
     }
